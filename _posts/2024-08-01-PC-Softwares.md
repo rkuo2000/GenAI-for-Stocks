@@ -4,7 +4,7 @@ title:  "PC Softwares"
 author: rkuo
 categories: [ Tutorial ]
 tags: [red, yellow]
-image: assets/images/git-for-windows.jpg
+image: https://gitforwindows.org/img/gw1.png
 description: "PC 軟體安裝"
 featured: false
 hidden: false
