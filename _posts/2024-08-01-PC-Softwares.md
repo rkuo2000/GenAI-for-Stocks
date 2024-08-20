@@ -11,7 +11,7 @@ hidden: false
 rating: 4.5
 ---
 
-Colab, Notepad++, Git-for-Windows, Python3-for-Windows, GPU libraries (CUDA & CuDNN), etc.
+Git-for-Windows, Python3-for-Windows, etc.
 
 ---
 ## 雲端平台
